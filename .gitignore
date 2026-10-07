@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+build_pdf.py
+generate_book_content.py
