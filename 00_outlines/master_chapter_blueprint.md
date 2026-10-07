@@ -113,7 +113,7 @@
 
 ---
 
-## 💼 PHẦN IV: CẨM NANG THỰC CHIẾN TỪ 65 DOANH NGHIỆP (CASE STUDIES)
+## 💼 PHẦN IV: CẨM NANG THỰC CHIẾN TỪ CÁC DỰ ÁN DOANH NGHIỆP (CASE STUDIES)
 
 ### CHƯƠNG 10: CASE STUDY 1 — SỐ HÓA PHÒNG MARKETING & SÁNG TẠO NỘI DUNG
 - **Khối 1: The War Story**: Phòng Marketing 15 người nhưng mỗi ngày họp 2 tiếng để hỏi "hôm nay đăng bài gì, video render xong chưa, lead từ đâu về". Chi phí quảng cáo đốt hàng trăm triệu nhưng không đo được hiệu quả.
@@ -125,13 +125,13 @@
 
 ---
 
-### CHƯƠNG 11: CASE STUDY 2 — ĐIỀU PHỐI DỰ ÁN KHÁCH HÀNG B2B DIỆN RỘNG
-- **Khối 1: The War Story**: Triển khai cùng lúc 20 dự án khách hàng. Đội ngũ kỹ thuật quá tải, bỏ quên yêu cầu của khách, khách phàn nàn và đòi hoàn tiền.
+### CHƯƠNG 11: CASE STUDY 2 — ĐIỀU PHỐI HƠN 60 PHÂN HỆ DỰ ÁN SONG SONG
+- **Khối 1: The War Story**: Triển khai cùng lúc hàng chục phân hệ cho các doanh nghiệp khách hàng. Đội ngũ kỹ thuật quá tải, nguy cơ bỏ quên yêu cầu của khách và trôi việc.
 - **Khối 2: Root-Cause Diagnosis**:
   - Bài toán quản trị kỳ vọng khách hàng và kỷ luật tiến độ. Tại sao chỉ dùng chat nhóm (Zalo/Telegram) sẽ dẫn đến thảm họa trôi việc.
 - **Khối 3: Architectural Blueprint**: Mô hình quản trị dự án khép kín: *Minutes họp $\rightarrow$ Bóc băng yêu cầu $\rightarrow$ Task có người chịu trách nhiệm $\rightarrow$ Báo cáo tuần DIA tự động*.
-- **Khối 4: Execution & Prompts**: Cách thiết lập 23 Tasklists, cơ chế báo cáo tiến độ tự động bằng thẻ tương tác qua Lark IM.
-- **Khối 5: Practitioner's Checklist**: Quy tắc 99% kỷ luật hoàn thành nhiệm vụ (Execution Rigor).
+- **Khối 4: Execution & Prompts**: Cách thiết lập các Tasklists chuyên trách, cơ chế báo cáo tiến độ tự động bằng thẻ tương tác qua Lark IM.
+- **Khối 5: Practitioner's Checklist**: Chuẩn nghiệm thu và đưa vào vận hành thực tế đạt trên 80% các phân hệ module (Module Survival Rate).
 
 ---
 

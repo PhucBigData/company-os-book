@@ -4,7 +4,7 @@ Tôi không viết cuốn sách này từ những tháp ngà lý thuyết, nhữ
 
 Tôi viết cuốn sách này từ **bùn đất của chiến trường**.
 
-Tôi viết nó sau hơn 18 tháng ròng rã, trực tiếp bước vào "phòng mổ vận hành" của hơn 65 doanh nghiệp vừa và nhỏ tại Việt Nam: từ các chuỗi thời trang bán lẻ, nhà máy sản xuất linh kiện máy móc, công ty logistics, agency truyền thông, cho đến các đơn vị F&B đang oằn mình lớn lên. 
+Tôi viết nó sau hơn 18 tháng ròng rã, trực tiếp bước vào "phòng mổ vận hành" của hơn 25 doanh nghiệp vừa và nhỏ tại Việt Nam: từ các chuỗi thời trang bán lẻ, nhà máy sản xuất linh kiện máy móc, công ty logistics, agency truyền thông, cho đến các đơn vị F&B đang oằn mình lớn lên. 
 
 Ở đó, tôi đã chứng kiến những gì?
 - Tôi đã chứng kiến những người sáng lập thông minh, tài giỏi, từng khởi nghiệp thành công rực rỡ, nhưng khi doanh nghiệp cán mốc 50 nhân sự thì rơi vào trạng thái trầm cảm kiệt sức vì mỗi ngày phải xử lý hàng trăm sự cố vụn vặt.
@@ -17,9 +17,10 @@ Chuyển đổi số trong mắt nhiều người đã trở thành một "bóng
 Nhưng chuyển đổi số **không nhất thiết phải đau đớn như vậy**.
 
 Trong suốt 18 tháng đó, bằng cách kết hợp **Tư duy Kiến trúc Hệ thống (First Principles)**, nền tảng **Low-code cộng tác hiện đại (như Lark Suite)** và năng lực **Điều phối Trí tuệ Nhân tạo Đa tác nhân (Agentic AI)**, một mình tôi cùng những đội ngũ siêu tinh gọn đã:
-- Thiết kế và đưa vào vận hành thành công hơn **61 hệ thống Company OS đa phòng ban**.
-- Xây dựng hơn **137 không gian tri thức (Wiki Spaces)** với hơn 1,100 quy trình chuẩn hóa.
-- Điều phối song song **65 dự án khách hàng** với tỷ lệ hoàn thành cam kết **99.8% (524/525 nhiệm vụ)**.
+- Đồng hành tái cấu trúc vận hành cho **hơn 25 doanh nghiệp SME** thuộc nhiều ngành nghề khác nhau.
+- Thiết kế và đưa vào vận hành thực tế **hơn 60 phân hệ (module) hệ thống Company OS**.
+- Tỷ lệ nghiệm thu và đưa vào vận hành thực tế đạt **hơn 80% các phân hệ module** — một con số sống sót vượt trội so với mức trung bình của ngành phần mềm và chuyển đổi số.
+- Xây dựng hơn **130 không gian tri thức (Wiki Spaces)** với hàng trăm quy trình chuẩn hóa.
 - Và chứng minh rằng: **Một doanh nghiệp 50 người hoàn toàn có thể sở hữu một hệ điều hành vận hành mượt mà, tự động và chuyên nghiệp như một tập đoàn ngàn người, với chi phí chỉ bằng một phần mười.**
 
 Cuốn sách này là toàn bộ bản đồ rút ruột nhả tơ của hành trình đó. Nó không có những thuật ngữ vĩ mô sáo rỗng. Nó là một **Cẩm nang Thực chiến (Practitioner's Handbook)**:

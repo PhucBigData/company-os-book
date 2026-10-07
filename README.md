@@ -39,9 +39,9 @@
 
 ---
 
-### 💼 PHẦN IV: CẨM NANG THỰC CHIẾN TỪ 65 DOANH NGHIỆP (CASE STUDIES)
+### 💼 PHẦN IV: CẨM NANG THỰC CHIẾN TỪ CÁC DỰ ÁN DOANH NGHIỆP (CASE STUDIES)
 * **Chương 10**: [Thực Chiến: Số Hóa Phòng Marketing Và Bán Hàng](02_drafts/chapter_10_case_study_marketing_va_sales.md)
-* **Chương 11**: [Thực Chiến: Vận Hành 65 Dự Án Khách Hàng Song Song](02_drafts/chapter_11_case_study_dieu_phoi_du_an_khach_hang_b2b.md)
+* **Chương 11**: [Thực Chiến: Điều Phối Hơn 60 Phân Hệ Dự Án Song Song](02_drafts/chapter_11_case_study_dieu_phoi_du_an_khach_hang_b2b.md)
 * **Chương 12**: [Bàn Giao Và Văn Hóa Số: Biến Hệ Thống Thành Thói Quen](02_drafts/chapter_12_playbook_ban_giao_va_chuyen_dich_van_hoa_so.md)
 
 ---

@@ -20,7 +20,7 @@ Không ai biết người đó là ai. File Excel được chia sẻ cho 45 nhâ
 
 Cuộc họp kéo dài 3 tiếng đồng hồ không tìm ra thủ phạm. Kết cục: Kế toán trưởng nộp đơn xin nghỉ việc hai ngày sau đó vì áp lực; Giám đốc Kinh doanh và Giám đốc Vận hành bằng mặt nhưng không bằng lòng; và doanh nghiệp mất đứt 2 tuần lễ chỉ để cho 10 nhân sự ngồi kiểm kê lại từng hóa đơn giấy nhằm tìm ra 400 triệu đồng đang thất lạc ở đâu.
 
-Đây không phải là một bi kịch hiếm gặp. Trong suốt 18 tháng trực tiếp đi tư vấn và triển khai chuyển đổi số cho hơn 65 doanh nghiệp vừa và nhỏ (SME), tôi đã chứng kiến kịch bản này lặp đi lặp lại hàng trăm lần. Nó diễn ra ở các công ty thời trang, chuỗi F&B, đơn vị logistics, agency truyền thông cho đến các nhà máy sản xuất.
+Đây không phải là một bi kịch hiếm gặp. Trong suốt 18 tháng trực tiếp đi tư vấn và triển khai chuyển đổi số cho hơn 25 doanh nghiệp vừa và nhỏ (SME), tôi đã chứng kiến kịch bản này lặp đi lặp lại hàng trăm lần. Nó diễn ra ở các công ty thời trang, chuỗi F&B, đơn vị logistics, agency truyền thông cho đến các nhà máy sản xuất.
 
 Tất cả đều bắt đầu từ một niềm tin ngây thơ: **"Công ty mình còn nhỏ, dùng Excel là đủ rồi, cần gì hệ thống phức tạp."**
 

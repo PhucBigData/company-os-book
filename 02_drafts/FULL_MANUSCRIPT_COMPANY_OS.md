@@ -10,7 +10,7 @@ Tôi không viết cuốn sách này từ những tháp ngà lý thuyết, nhữ
 
 Tôi viết cuốn sách này từ **bùn đất của chiến trường**.
 
-Tôi viết nó sau hơn 18 tháng ròng rã, trực tiếp bước vào "phòng mổ vận hành" của hơn 65 doanh nghiệp vừa và nhỏ tại Việt Nam: từ các chuỗi thời trang bán lẻ, nhà máy sản xuất linh kiện máy móc, công ty logistics, agency truyền thông, cho đến các đơn vị F&B đang oằn mình lớn lên. 
+Tôi viết nó sau hơn 18 tháng ròng rã, trực tiếp bước vào "phòng mổ vận hành" của hơn 25 doanh nghiệp vừa và nhỏ tại Việt Nam: từ các chuỗi thời trang bán lẻ, nhà máy sản xuất linh kiện máy móc, công ty logistics, agency truyền thông, cho đến các đơn vị F&B đang oằn mình lớn lên. 
 
 Ở đó, tôi đã chứng kiến những gì?
 - Tôi đã chứng kiến những người sáng lập thông minh, tài giỏi, từng khởi nghiệp thành công rực rỡ, nhưng khi doanh nghiệp cán mốc 50 nhân sự thì rơi vào trạng thái trầm cảm kiệt sức vì mỗi ngày phải xử lý hàng trăm sự cố vụn vặt.
@@ -23,9 +23,10 @@ Chuyển đổi số trong mắt nhiều người đã trở thành một "bóng
 Nhưng chuyển đổi số **không nhất thiết phải đau đớn như vậy**.
 
 Trong suốt 18 tháng đó, bằng cách kết hợp **Tư duy Kiến trúc Hệ thống (First Principles)**, nền tảng **Low-code cộng tác hiện đại (như Lark Suite)** và năng lực **Điều phối Trí tuệ Nhân tạo Đa tác nhân (Agentic AI)**, một mình tôi cùng những đội ngũ siêu tinh gọn đã:
-- Thiết kế và đưa vào vận hành thành công hơn **61 hệ thống Company OS đa phòng ban**.
-- Xây dựng hơn **137 không gian tri thức (Wiki Spaces)** với hơn 1,100 quy trình chuẩn hóa.
-- Điều phối song song **65 dự án khách hàng** với tỷ lệ hoàn thành cam kết **99.8% (524/525 nhiệm vụ)**.
+- Đồng hành tái cấu trúc vận hành cho **hơn 25 doanh nghiệp SME** thuộc nhiều ngành nghề khác nhau.
+- Thiết kế và đưa vào vận hành thực tế **hơn 60 phân hệ (module) hệ thống Company OS**.
+- Tỷ lệ nghiệm thu và đưa vào vận hành thực tế đạt **hơn 80% các phân hệ module** — một con số sống sót vượt trội so với mức trung bình của ngành phần mềm và chuyển đổi số.
+- Xây dựng hơn **130 không gian tri thức (Wiki Spaces)** với hàng trăm quy trình chuẩn hóa.
 - Và chứng minh rằng: **Một doanh nghiệp 50 người hoàn toàn có thể sở hữu một hệ điều hành vận hành mượt mà, tự động và chuyên nghiệp như một tập đoàn ngàn người, với chi phí chỉ bằng một phần mười.**
 
 Cuốn sách này là toàn bộ bản đồ rút ruột nhả tơ của hành trình đó. Nó không có những thuật ngữ vĩ mô sáo rỗng. Nó là một **Cẩm nang Thực chiến (Practitioner's Handbook)**:
@@ -69,7 +70,7 @@ Không ai biết người đó là ai. File Excel được chia sẻ cho 45 nhâ
 
 Cuộc họp kéo dài 3 tiếng đồng hồ không tìm ra thủ phạm. Kết cục: Kế toán trưởng nộp đơn xin nghỉ việc hai ngày sau đó vì áp lực; Giám đốc Kinh doanh và Giám đốc Vận hành bằng mặt nhưng không bằng lòng; và doanh nghiệp mất đứt 2 tuần lễ chỉ để cho 10 nhân sự ngồi kiểm kê lại từng hóa đơn giấy nhằm tìm ra 400 triệu đồng đang thất lạc ở đâu.
 
-Đây không phải là một bi kịch hiếm gặp. Trong suốt 18 tháng trực tiếp đi tư vấn và triển khai chuyển đổi số cho hơn 65 doanh nghiệp vừa và nhỏ (SME), tôi đã chứng kiến kịch bản này lặp đi lặp lại hàng trăm lần. Nó diễn ra ở các công ty thời trang, chuỗi F&B, đơn vị logistics, agency truyền thông cho đến các nhà máy sản xuất.
+Đây không phải là một bi kịch hiếm gặp. Trong suốt 18 tháng trực tiếp đi tư vấn và triển khai chuyển đổi số cho hơn 25 doanh nghiệp vừa và nhỏ (SME), tôi đã chứng kiến kịch bản này lặp đi lặp lại hàng trăm lần. Nó diễn ra ở các công ty thời trang, chuỗi F&B, đơn vị logistics, agency truyền thông cho đến các nhà máy sản xuất.
 
 Tất cả đều bắt đầu từ một niềm tin ngây thơ: **"Công ty mình còn nhỏ, dùng Excel là đủ rồi, cần gì hệ thống phức tạp."**
 
@@ -1350,13 +1351,13 @@ Nhờ công thức này, sáng thứ Hai ban giám đốc chỉ cần mở BaseA
 
 ---
 
-# CHƯƠNG 11: CASE STUDY 2 — ĐIỀU PHỐI DỰ ÁN KHÁCH HÀNG B2B DIỆN RỘNG
+# CHƯƠNG 11: CASE STUDY 2 — ĐIỀU PHỐI HƠN 60 PHÂN HỆ DỰ ÁN SONG SONG
 
 ---
 
 ## 1. CÂU CHUYỆN CHIẾN TRƯỜNG (THE WAR STORY)
 
-Tháng 9 năm 2026 là thời điểm cao điểm nhất trong sự nghiệp tư vấn của tôi. Trên hệ thống Lark IM của tôi có **65 nhóm chat dự án doanh nghiệp đang hoạt động song song**: từ các thương hiệu thời trang, chuỗi F&B, tập đoàn bất động sản cho đến các công ty sản xuất cơ khí.
+Tháng 9 năm 2026 là thời điểm cao điểm nhất trong sự nghiệp tư vấn của tôi. Trên hệ thống Lark IM của tôi có **hơn 60 nhóm chat phân hệ và luồng tác vụ dự án đang hoạt động song song**: từ các thương hiệu thời trang, chuỗi F&B, tập đoàn bất động sản cho đến các công ty sản xuất cơ khí.
 
 Mỗi ngày, trung bình có khoảng 150 tin nhắn yêu cầu hỗ trợ, 5 cuộc họp tư vấn giải pháp trực tuyến (Lark Minutes), và hàng chục đầu việc phát sinh liên tục:
 - Khách hàng A muốn thêm trường tính hoa hồng.
@@ -1368,9 +1369,9 @@ Nếu theo cách làm việc truyền thống của hầu hết các công ty d�
 - Lời hứa với khách hàng bị lãng quên: *"Anh đợi em chút em kiểm tra"* $\rightarrow$ rồi 3 ngày sau khách hàng cáu giận đòi hủy hợp đồng vì không thấy hồi âm.
 - Đội ngũ kỹ thuật kiệt sức vì không biết việc nào khẩn cấp, việc nào quan trọng, dẫn đến làm việc trong tâm trạng hoảng loạn tột cùng.
 
-Nhưng trong suốt 18 tháng điều phối 65 khách hàng đó, tôi đã duy trì một chỉ số thực thi gần như không tưởng: **Hoàn thành 524/525 nhiệm vụ cam kết — đạt tỷ lệ 99.8%** mà không cần một đội ngũ trợ lý cồng kềnh.
+Nhưng trong suốt 18 tháng điều phối các dự án đó, tôi và đội ngũ đã duy trì một chỉ số thực thi ấn tượng: **Tỷ lệ nghiệm thu và đưa vào vận hành thực tế đạt hơn 80% các phân hệ (module) hệ thống** mà không cần một bộ máy trợ lý cồng kềnh.
 
-Làm thế nào một người (hoặc một đội ngũ siêu tinh gọn) có thể điều phối hàng chục dự án B2B cùng lúc mà không bị trôi bất kỳ đầu việc nào? Bí mật nằm ở **Vòng lặp Vận hành Dự án Tự động hóa (The Closed-Loop Delivery Engine)**.
+Làm thế nào một người (hoặc một đội ngũ siêu tinh gọn) có thể điều phối hàng chục phân hệ module cùng lúc mà không bị trôi việc và thất thoát yêu cầu? Bí mật nằm ở **Vòng lặp Vận hành Dự án Tự động hóa (The Closed-Loop Delivery Engine)**.
 
 ---
 
@@ -1399,7 +1400,7 @@ Nhóm chat (Chat Stream) là dòng chảy thông tin tuyến tính tạm thời 
 
 ## 3. KHUNG KIẾN TRÚC GIẢI PHÁP (ARCHITECTURAL BLUEPRINT)
 
-Để kiểm soát 65 dự án song song với tỷ lệ hoàn thành 99.8%, tôi xây dựng **Hệ thống Quản trị Dự án 4 Trục Khép Kín**:
+Để kiểm soát hơn 60 phân hệ dự án song song với tỷ lệ nghiệm thu đạt trên 80%, tôi xây dựng **Hệ thống Quản trị Dự án 4 Trục Khép Kín**:
 
 ```mermaid
 flowchart LR
@@ -1446,10 +1447,10 @@ Thay vì dồn toàn bộ 500 việc vào một danh sách dài vô tận, tôi 
 
 ## 5. BẢNG KIỂM NGHIỆM THU (PRACTITIONER'S CHECKLIST)
 
-| STT | Tiêu chí đánh giá năng lực điều phối dự án | Đạt (Chuẩn 99%) | Rủi ro |
+| STT | Tiêu chí đánh giá năng lực điều phối dự án | Đạt (Chuẩn >80% Module) | Rủi ro |
 | :-: | :--- | :-: | :-: |
 | 1 | **Chuyển hóa 100% yêu cầu**: Có yêu cầu nào của khách hàng nằm im trong tin nhắn chat mà không được chuyển thành Task không? | ⬜ 100% thành Task | 🟥 Bị trôi trong chat |
-| 2 | **Tỷ lệ đúng hạn (On-time Delivery)**: Tỷ lệ hoàn thành công việc đúng hạn của bạn có đạt trên 95% không? | ⬜ Đạt trên 95% | 🟥 Dưới 80% |
+| 2 | **Tỷ lệ sống sót của Module**: Tỷ lệ các phân hệ đưa vào vận hành thực tế và nhân sự dùng hàng ngày sau bàn giao có đạt trên 80% không? | ⬜ Đạt trên 80% | 🟥 Dưới 50% (bỏ xó) |
 | 3 | **Minh bạch tiến độ**: Khách hàng có tự xem được tiến độ dự án mà không cần phải nhắn tin hỏi dồn dập không? | ⬜ Tự xem được | 🟥 Liên tục bị giục |
 | 4 | **Bằng chứng nghiệm thu**: Mọi đầu việc khi báo cáo "Đã xong" có luôn đi kèm link bằng chứng thực tế không? | ⬜ Luôn có link | 🟥 Chỉ nói bằng mồm |
 
